@@ -16,4 +16,4 @@ def tower(n,fr,to,sp):
         tower(1,fr,to,sp)
         tower(n-1,sp,to,fr)
 
-tower(3,"P1","P2","P3")
+tower(3,"T1","T2","T3")
